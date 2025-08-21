@@ -4,7 +4,7 @@ I am a **Frontend Developer and UI/UX Designer** passionate about building high-
 
 I love **coding websites, developing mobile applications, and designing intuitive user interfaces**. I also enjoy solving problems and creating projects that make real impact.  
 
-* 🌍 Based in Nakhon Pathom, Thailand  
+* 🌍 Based in Chon Buri, Thailand  
 * ✉️ Contact me at [talabporn.wut@gmail.com](mailto:talabporn.wut@gmail.com)  
 
 ---
